@@ -8,5 +8,6 @@
 - Ace Brandligt
 - Sammy verdam
 - Aiden Jones
+- Tom de Jong
 - Ruiz Phang
 - Adem Bagirgan
