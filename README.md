@@ -9,8 +9,9 @@
 
 ### Controller:
  - een speler heeft 6 knoppen; 3 kolomen van 2 knoppen. Je schiet de meteoren met de knoppen.
- - Een specifiek knop word volgens op het controllerbord geselecteerd door de game.
+ - Een specifiek knop word volgens de game op het controllerbord geselecteerd.
  - Dat ziet de speler vervolgens als een licht wat bij de specifieke knop is.
+ - Als de speler niet snel genoeg reageert dan krijg de speler als penalty minder punten.
 
 # Teamleden
 - Julian van der Leek
